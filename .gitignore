@@ -1,0 +1,5 @@
+Obj/
+cmake-build-debug/
+cmake-build-vcpkg/
+.idea/
+test

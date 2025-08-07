@@ -1,0 +1,6 @@
+add_subdirectory(Memory)
+#add_subdirectory(Resource)
+add_subdirectory(Renderer)
+add_subdirectory(Window)
+add_subdirectory(Model-Loader)
+add_subdirectory(Logger)
